@@ -1,1 +1,3 @@
 pwd
+#!/bin/bash
+M-x pwd
